@@ -12,7 +12,9 @@ for some part of design. I have also used POSTMAN for api testing(It is a tool f
 
 I have made the UI interactive as possible and at the same time kept it minimilistic.
 
-How to start this project after downloading.
+How to start this project after download
+##########################################IMPORTANT######################
+PLEASE MOVE THE SURVEY FOLDER TO ANOTHER LOCATION AS IT CONTAINS THE BAKCEND PYTHON FILE.
 after downloading the project run -> npm install
                 after that        -> npm start
 at the same time run the backend with -> python app.py                

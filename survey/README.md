@@ -1,6 +1,3 @@
-################################################################################################
-hello 
-
 I would like to share few details about my project:-
 
 TOOLS and library that i have used-
@@ -13,18 +10,13 @@ for some part of design. I have also used POSTMAN for api testing(It is a tool f
 I have made the UI interactive as possible and at the same time kept it minimilistic.
 
 How to start this project after download
-##########################################IMPORTANT######################
-PLEASE MOVE THE SURVEY FOLDER TO ANOTHER LOCATION AS IT CONTAINS THE BAKCEND PYTHON FILE.
+
 after downloading the project run -> npm install
                 after that        -> npm start
 at the same time run the backend with -> python app.py                
 
 this is a simple project i have created with all my efforts. There is a lot of scope of improvement
 There might be some flaws in the project. 
-
-this is the 3rd project i have submitted out of my 3 projects done for web club. 
-Thank YOU
-###################################################################################################
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
